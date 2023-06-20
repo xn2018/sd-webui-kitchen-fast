@@ -33,7 +33,7 @@ export default defineConfig({
   define: {
     'process.env': process.env,
   },
-  devtool:"eval",
+  devtool: 'source-map',
   extraBabelPlugins: [
     [
       'babel-plugin-styled-components',
