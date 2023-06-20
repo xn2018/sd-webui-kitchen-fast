@@ -4,10 +4,10 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/canisminor1990/sd-webui-kitchen-theme.git"
+    "url": "https://github.com/xn2018/sd-webui-kitchen-fast.git"
   },
   "license": "MIT",
-  "author": "canisminor1990 <i@canisminor.cc>",
+  "author": "xn2018 <lovie19@hotmail.com>",
   "sideEffects": false,
   "scripts": {
     "build": "umi build",
