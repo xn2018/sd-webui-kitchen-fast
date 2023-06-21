@@ -14,6 +14,6 @@
     "strict": true
   },
   "exclude": ["javascript"],
-  "extends": "./src/.umi/tsconfig.json",
+  // "extends": "./src/.umi/tsconfig.json",
   "include": ["src", "typings.d.ts", "*.ts"]
 }

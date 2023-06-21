@@ -11,7 +11,7 @@
   "sideEffects": false,
   "scripts": {
     "build": "umi build",
-    "dev": "umi build",
+    "dev": "umi build COMPRESS=none",
     "lint": "eslint \"src/**/*.{js,jsx,ts,tsx}\" --fix",
     "lint:md": "remark . --quiet --output",
     "lint:style": "stylelint \"src/**/*.{css,less,js,jsx,ts,tsx}\" --fix",
